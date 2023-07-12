@@ -1,6 +1,6 @@
 {
   "name": "@kp-react-visual-design/design",
-  "version": "0.0.113",
+  "version": "0.0.114",
   "description": "> TODO: description",
   "homepage": "",
   "bugs": {
@@ -32,9 +32,9 @@
     "@formily/antd": "^2.1.9",
     "@formily/core": "^2.1.9",
     "@formily/react": "^2.1.9",
-    "@kp-react-visual-design/iframe-resizer-react": "^0.0.8",
-    "@kp-react-visual-design/utils": "^0.0.30",
-    "@kp-react-visual-design/widgets": "^0.0.71",
+    "@kp-react-visual-design/iframe-resizer-react": "^0.0.9",
+    "@kp-react-visual-design/utils": "^0.0.31",
+    "@kp-react-visual-design/widgets": "^0.0.72",
     "antd": "~4.23.6",
     "classnames": "^2.3.1",
     "lodash": "^4.17.21",
