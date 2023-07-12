@@ -46,8 +46,6 @@ export const FORMAT = 'YYYY-MM-DD HH:mm:ss';
 export const iframeURL =
   process.env.NODE_ENV === 'development'
     ? `http://${location.hostname}:8001/`
-    : location.host.includes('test')
-    ? 'https://dev-view.otosaas.com/'
-    : 'https://view.otosaas.com/';
+    : 'https://justcodej.github.io/visual-design-iframe-preview/dist/';
 
 export const TABLE_SCROLL = { y: 450 };

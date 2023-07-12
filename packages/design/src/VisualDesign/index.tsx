@@ -53,7 +53,7 @@ class VisualDesign extends React.Component<VisualDesignProps, VisualDesignStateT
   };
 
   componentDidMount() {
-    const domain = process.env.NODE_ENV === 'development' ? location.hostname : `otosaas.com`;
+    const domain = process.env.NODE_ENV === 'development' ? location.hostname : `justcodej.github.io`;
     document.domain = domain;
     this.fetchIntialWidgets();
   }
