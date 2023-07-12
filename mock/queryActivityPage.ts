@@ -1,0 +1,131 @@
+export default {
+  'POST /api/v1/pindao/polymerize/link/queryActivityPage': {
+    code: 0,
+    data: {
+      totalCount: 66,
+      list: [
+        {
+          activityId: '400001892380128C',
+          activityName: '签到有礼',
+          startAndEndDate: '2023-07-12 ~ 2023-07-18',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/400001892380128C',
+        },
+        {
+          activityId: '4000018920667186',
+          activityName: '签到测试',
+          startAndEndDate: '2023-07-04 ~ 2023-07-10',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/4000018920667186',
+        },
+        {
+          activityId: '100001891EA29A00',
+          activityName: '7月幸运星期四',
+          startAndEndDate: '2023-07-06 ~ 2023-07-27',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/100001891EA29A00',
+        },
+        {
+          activityId: '100001890A645663',
+          activityName: '上海分行幸运+五',
+          startAndEndDate: '2023-06-30 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/100001890A645663',
+        },
+        {
+          activityId: '10000188AEC2D1C5',
+          activityName: '石家庄分行转盘抽话费',
+          startAndEndDate: '2023-06-19 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/10000188AEC2D1C5',
+        },
+        {
+          activityId: '10000188AEA0537A',
+          activityName: '长沙分行6月幸运大转盘',
+          startAndEndDate: '2023-06-26 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/10000188AEA0537A',
+        },
+        {
+          activityId: '300001889DD4E384',
+          activityName: '渤泰俱乐部专享',
+          startAndEndDate: '2023-06-14 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/300001889DD4E384',
+        },
+        {
+          activityId: '1000018899F40960',
+          activityName: '转盘抽话费专属活动',
+          startAndEndDate: '2023-06-12 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/1000018899F40960',
+        },
+        {
+          activityId: '3000018895281AFF',
+          activityName: '6月5元新客',
+          startAndEndDate: '2023-06-12 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/3000018895281AFF',
+        },
+        {
+          activityId: '100001888F5F8D42',
+          activityName: '杭州分行话费代金券',
+          startAndEndDate: '2023-06-10 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/100001888F5F8D42',
+        },
+        {
+          activityId: '100001886B8F9071',
+          activityName: '6月幸运星期四',
+          startAndEndDate: '2023-06-01 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/100001886B8F9071',
+        },
+        {
+          activityId: '10000188569EC092',
+          activityName: '济南分行幸运星期一',
+          startAndEndDate: '2023-05-30 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/10000188569EC092',
+        },
+        {
+          activityId: '3000018856739271',
+          activityName: '途虎养车',
+          startAndEndDate: '2023-04-03 ~ 2023-09-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/3000018856739271',
+        },
+        {
+          activityId: '10000188279FD387',
+          activityName: '上海分行幸运三+五',
+          startAndEndDate: '2023-05-24 ~ 2023-06-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/10000188279FD387',
+        },
+        {
+          activityId: '300001882769EAB3',
+          activityName: '上海分行周一免费领',
+          startAndEndDate: '2023-05-22 ~ 2023-06-26',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/300001882769EAB3',
+        },
+        {
+          activityId: '30000188242C609D',
+          activityName: '测试ning',
+          startAndEndDate: '2023-04-29 ~ 2024-04-30',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/30000188242C609D',
+        },
+        {
+          activityId: '300001880864776E',
+          activityName: '1元抢话费券包',
+          startAndEndDate: '2023-05-15 ~ 2023-06-15',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/300001880864776E',
+        },
+        {
+          activityId: '30000187FFAF9CEC',
+          activityName: '5月新客5元红包',
+          startAndEndDate: '2023-05-12 ~ 2023-06-01',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/30000187FFAF9CEC',
+        },
+        {
+          activityId: '10000187B2917F34',
+          activityName: '5月幸运星期四',
+          startAndEndDate: '2023-05-04 ~ 2023-05-25',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/10000187B2917F34',
+        },
+        {
+          activityId: '300001875A94A8E8',
+          activityName: '4月新客5元红包',
+          startAndEndDate: '2023-04-12 ~ 2023-05-01',
+          url: 'https://bhbank.otosaas.com/lucky_draw/squared/300001875A94A8E8',
+        },
+      ],
+    },
+    message: '操作成功',
+  },
+};

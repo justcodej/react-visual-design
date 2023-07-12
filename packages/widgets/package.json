@@ -1,0 +1,33 @@
+{
+  "name": "@kp-react-visual-design/widgets",
+  "version": "0.0.71",
+  "description": "> TODO: description",
+  "homepage": "",
+  "bugs": {
+    "url": "http://gits.boluome.com/wuhao/react-visual-design/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gits.boluome.com/wuhao/react-visual-design.git"
+  },
+  "license": "ISC",
+  "author": "wuhao <wuhao@otosaas.com>",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "typings": "es/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib",
+    "es"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "antd-mobile": "^5.18.0"
+  },
+  "gitHead": "227c91f97eae5188af430cead339e2d3aecbcab7"
+}

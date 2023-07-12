@@ -1,0 +1,32 @@
+{
+  "name": "@kp-react-visual-design/utils",
+  "version": "0.0.30",
+  "description": "> TODO: description",
+  "homepage": "",
+  "bugs": {
+    "url": "http://gits.boluome.com/wuhao/react-visual-design/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gits.boluome.com/wuhao/react-visual-design.git"
+  },
+  "license": "ISC",
+  "author": "wuhao <wuhao@otosaas.com>",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "typings": "es/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib",
+    "es"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "umi-request": "^1.4.0"
+  }
+}
