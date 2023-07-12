@@ -220,9 +220,7 @@ export default {
                   city: {
                     'x-decorator': 'FormItem',
                     'x-component': 'Cascader',
-                    'x-reactions': [
-                      "{{useAsyncCitys('https://fa.otosaas.com/json/allCity.json')}}",
-                    ],
+                    'x-reactions': ["{{useAsyncCitys('/json/allCity.json')}}"],
                     'x-component-props': {
                       multiple: true,
                       showCheckedStrategy: 'SHOW_CHILD',
