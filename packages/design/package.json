@@ -4,11 +4,11 @@
   "description": "> TODO: description",
   "homepage": "",
   "bugs": {
-    "url": "http://gits.boluome.com/wuhao/react-visual-design/issues"
+    "url": "https://github.com/justcodej/react-visual-design/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://gits.boluome.com/wuhao/react-visual-design.git"
+    "url": "https://github.com/justcodej/react-visual-design.git"
   },
   "license": "ISC",
   "author": "wuhao <wuhao@otosaas.com>",
