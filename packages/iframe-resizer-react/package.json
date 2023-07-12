@@ -7,11 +7,11 @@
   ],
   "homepage": "",
   "bugs": {
-    "url": "http://gits.boluome.com/wuhao/react-visual-design/issues"
+    "url": "https://github.com/justcodej/react-visual-design/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://gits.boluome.com/wuhao/react-visual-design.git"
+    "url": "https://github.com/justcodej/react-visual-design.git"
   },
   "license": "ISC",
   "author": "wuhao <wuhao@otosaas.com>",
@@ -34,7 +34,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "http://192.168.1.163:4873/"
+    "registry": "https://registry.npmjs.org/"
   },
   "gitHead": "227c91f97eae5188af430cead339e2d3aecbcab7"
 }
