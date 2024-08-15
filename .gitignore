@@ -3,17 +3,17 @@
 # dependencies
 /npm-debug.log*
 /yarn-error.log
-/yarn.lock
+# /yarn.lock
 /package-lock.json
 
 # production
-/es
-/**/es
-/**/**/es
+# /es
+# /**/es
+# /**/**/es
 
-/lib
-/**/lib
-/**/**/lib
+# /lib
+# /**/lib
+# /**/**/lib
 
 # /docs-dist
 
